@@ -96,9 +96,11 @@ export default function App() {
         <main className="app__main">{ActiveTool && <ActiveTool />}</main>
       </div>
 
-      <footer className="app__footer">
-        <span>Static, client-side, no backend — safe to host on GitHub Pages.</span>
-      </footer>
+     <footer className="app__footer">
+        <span>© 2026 CYBERTOOLKIT</span>
+        <span>BUILT FOR SECURITY RESEARCH & CTFs</span>
+    </footer>
+
     </div>
   )
 }
