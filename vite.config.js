@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // leave base as '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/toolvault/',
+  base: '/Cybertoolkit/',
 })
